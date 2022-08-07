@@ -1,0 +1,18 @@
+ADMINS_ID = [653391824, 5008027433]
+MANAGERS_ID = [965704849]
+NEWS_CHANNEL = '@allsavernews'
+
+AD_CHANNEL_ID = -1001153271591
+AD_CHANNEL_LINK = 'https://t.me/KamronMediaAds/'
+
+STATS_GROUP_ID = -1001555191664
+AD_STATS_GROUP_ID = -630572075
+ADS_ACTION_GROUP_ID = -711752746
+
+BOT_USERNAME = '@memsoundsbot'
+
+ONE_DAY_STAT = {'new': 0, 'download': 0, 'error': 0}
+
+USER_FIRST_INFO = {'ref': 0, 'memes': []}
+
+EXPIRE_TIME = 60 * 60 * 1  # 1 hour
